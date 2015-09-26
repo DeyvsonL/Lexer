@@ -1,0 +1,7 @@
+int x = 0;
+int y = 7;
+float z = 9.6;
+while (z>x){
+	boolean xx = true
+}
+/*este é um pequeno codigo minijava*/
